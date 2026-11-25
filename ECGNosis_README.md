@@ -104,9 +104,3 @@ These values are from the results currently stored in the repository. Accuracy i
 ## Note
 
 The current code uses the `AF` label from the dataset. It should not be considered a Chagas disease detection model unless a Chagas-specific dataset, labels and evaluation process are implemented.
-
-This project is for academic and learning purposes. It is not intended for clinical diagnosis or medical decision-making.
-
-## Author
-
-Kevin Joel B.
