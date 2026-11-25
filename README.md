@@ -1,1 +1,1 @@
-# ChagNosis
+# ECGnosis
