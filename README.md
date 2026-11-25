@@ -13,7 +13,7 @@ Technologies Used
 - Scikit-learn
 - Matplotlib
 - sktime (InceptionTime)
-- 
+  
 Project Files
 File	Description
 
@@ -33,7 +33,7 @@ The main script expects the following files:
 - exams_part17.hdf5 – ECG recordings used for training.
 - exams_part16.hdf5 – ECG recordings used for testing.
 - exams.csv – Exam details and labels.
-- 
+  
 The HDF5 files should contain tracings and exam_id datasets. The CSV file should contain the exam_id and AF columns.
 
 The dataset files are not included in this repository. They need to be obtained separately from an authorized source.
@@ -68,9 +68,13 @@ The current performance_metrics.csv file contains these results:
 
 Metric	Value
 Accuracy	- 0.97695
+
 Precision	- 0.19231
+
 Recall	- 0.01124
+
 F1-score	- 0.02123
+
 ROC-AUC	 - 0.58129
 
 
