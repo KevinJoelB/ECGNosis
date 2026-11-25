@@ -18,13 +18,21 @@ Project Files
 File	Description
 
 ecg_pipeline_inceptiontime.py	 #Preprocesses ECG signals, trains the model and evaluates its performance.
+
 risk_seperator.py	 #Separates prediction results into high-risk and low-risk files.
+
 look.py	 #Displays the datasets and structure stored in an HDF5 file.
+
 confusion_matrix.png 	#Confusion matrix generated during evaluation.
+
 roc_curve.png	 #ROC curve generated during evaluation.
+
 performance_metrics.csv 	#Stores the model evaluation metrics.
+
 ecg_risk_predictions.csv	 #Contains the prediction results for each exam.
+
 high_risk_sorted.csv	 #Contains high-risk predictions sorted by prediction probability.
+
 low_risk_sorted.csv	 #Contains low-risk predictions sorted by prediction probability.
 
 
